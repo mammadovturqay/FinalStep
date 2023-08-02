@@ -1,0 +1,4 @@
+Error in someFunction(): Some error occurred
+Error in someFunction(): Some error occurred
+Error in someFunction(): Some error occurred
+Error in someFunction(): Some error occurred
